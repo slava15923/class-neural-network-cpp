@@ -1,6 +1,6 @@
-This is just a template for creating a layered neural network\n
+This is just a template for creating a layered neural network
 usage:
-w - weights
+<h3 align="center">w - weights</h3>
 ra - you can put a number there. usage example: l1.ra = 1;
 l1.corW(1,l1.ra);
 l1.ra++;
