@@ -1,4 +1,4 @@
-This is just a template for creating a layered neural network
+This is just a template for creating a layered neural network\n
 usage:
 w - weights
 ra - you can put a number there. usage example: l1.ra = 1;
