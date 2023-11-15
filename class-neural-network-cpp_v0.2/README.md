@@ -1,1 +1,1 @@
-<h2>fix bug in corW</h2>
+<h2>fix bug in corW()</h2>
