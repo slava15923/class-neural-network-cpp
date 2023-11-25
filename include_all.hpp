@@ -1,2 +1,2 @@
-#include "layers/default.cpp"
-#include "layers/circle.cpp"
+#include "layers/default.hpp"
+#include "layers/circle.hpp"
